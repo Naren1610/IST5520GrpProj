@@ -1,11 +1,13 @@
 import geopy
+from geopy.geocoders import Nominatim
 import pandas as pd
 
 longlat = pd.read_csv("listings.csv")
+longlat=longlat.head(100)
 geolocator = geopy.Nominatim(user_agent="check_1")
 
-def get_zip_code(x):
-    location = geolocator.reverse("{}, {}".format(x['latitude'],x['longitude']))
+def get_zip_code(longlat, geolocator, latitude, longitude):
+    location = geolocator.reverse((longlat[latitude], longlat[longitude]))
     return location.raw['address']['postcode']
-longlat['zipcode'] = longlat.head().apply(lambda x: get_zip_code(x), axis = 1)
+longlat['zipcode'] = longlat.apply(get_zip_code, axis=1, geolocator=geolocator, latitude='latitude', longitude='longitude')
 longlat
