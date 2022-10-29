@@ -1,0 +1,40 @@
+import multiprocessing as mp
+import time
+import geopy
+from geopy.geocoders import Nominatim
+import pandas as pd
+
+start_time=time.time()
+
+csv_URL = "http://data.insideairbnb.com/united-states/ny/new-york-city/2022-09-07/visualisations/listings.csv"
+longlat = pd.read_csv(csv_URL)
+longlat=longlat.head(100)
+geolocator = geopy.Nominatim(user_agent="check_1")
+
+
+def get_zip_code2(ind, geolocator, latitude, longitude):
+    location = geolocator.reverse((latitude,longitude))
+    return location.raw['address']['postcode']
+
+
+
+pool = mp.Pool(mp.cpu_count())
+#longlat['zipcode'] = [pool.apply(get_zip_code2, args=(geolocator, row['latitude'], row['longitude'])) for ind,row in longlat.iterrows()]
+
+
+
+results = []
+
+# call apply_async() without callback
+result_objects = [pool.apply_async(get_zip_code2, args=(ind,geolocator, row['latitude'], row['longitude'])) for ind,row in longlat.iterrows()]
+
+# result_objects is a list of pool.ApplyResult objects
+results = [r.get() for r in result_objects]
+longlat['zipcode']=results
+pool.close()
+pool.join()
+
+
+end_time=time.time()
+print("Time taken:",end_time-start_time)
+print(longlat)
