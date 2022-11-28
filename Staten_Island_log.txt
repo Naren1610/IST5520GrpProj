@@ -1,0 +1,892 @@
+Latitude: 40.64633, Longitude: -74.08156
+
+Latitude: 40.591675, Longitude: -74.065865
+
+Latitude: 40.60742, Longitude: -74.14388
+
+Latitude: 40.61019, Longitude: -74.06757
+
+Latitude: 40.59274, Longitude: -74.16178
+
+Latitude: 40.50863, Longitude: -74.24135
+
+Latitude: 40.62915, Longitude: -74.16214
+
+Latitude: 40.60066, Longitude: -74.08902
+
+Latitude: 40.60035, Longitude: -74.09103
+
+Latitude: 40.61033, Longitude: -74.06544
+
+Latitude: 40.64743, Longitude: -74.08419
+
+Latitude: 40.64734, Longitude: -74.08414
+
+Latitude: 40.62578, Longitude: -74.07356
+
+Latitude: 40.64367, Longitude: -74.0794
+
+Latitude: 40.54153, Longitude: -74.16442
+
+Latitude: 40.64489, Longitude: -74.07789
+
+Latitude: 40.57716, Longitude: -74.14087
+
+Latitude: 40.63603, Longitude: -74.0951
+
+Latitude: 40.62914, Longitude: -74.15927
+
+Latitude: 40.64390612272814, Longitude: -74.08280754285174
+
+Latitude: 40.63451, Longitude: -74.11527
+
+Latitude: 40.64499446984693, Longitude: -74.08091924711673
+
+Latitude: 40.58151, Longitude: -74.08876
+
+Latitude: 40.61363, Longitude: -74.12152
+
+Latitude: 40.54615, Longitude: -74.14654
+
+Latitude: 40.62287, Longitude: -74.09968
+
+Latitude: 40.62872, Longitude: -74.12154
+
+Latitude: 40.60494, Longitude: -74.07337
+
+Latitude: 40.64816, Longitude: -74.08445
+
+Latitude: 40.61223, Longitude: -74.09318
+
+Latitude: 40.63073, Longitude: -74.08588
+
+Latitude: 40.61066, Longitude: -74.12276
+
+Latitude: 40.64365, Longitude: -74.09113
+
+Latitude: 40.62389, Longitude: -74.07568
+
+Latitude: 40.6298, Longitude: -74.08527
+
+Latitude: 40.62534, Longitude: -74.07705
+
+Latitude: 40.57095, Longitude: -74.12328
+
+Latitude: 40.61639, Longitude: -74.07661
+
+Latitude: 40.62672, Longitude: -74.07564
+
+Latitude: 40.63018, Longitude: -74.17485
+
+Latitude: 40.59273, Longitude: -74.08831
+
+Latitude: 40.64371, Longitude: -74.07887
+
+Latitude: 40.64077, Longitude: -74.07815
+
+Latitude: 40.57087, Longitude: -74.09641
+
+Latitude: 40.64196, Longitude: -74.07806
+
+Latitude: 40.56052, Longitude: -74.1289
+
+Latitude: 40.5425, Longitude: -74.14809
+
+Latitude: 40.61883, Longitude: -74.12949
+
+Latitude: 40.59434, Longitude: -74.0709
+
+Latitude: 40.63304, Longitude: -74.11275
+
+Latitude: 40.63189, Longitude: -74.11308
+
+Latitude: 40.55621, Longitude: -74.15805
+
+Latitude: 40.62814, Longitude: -74.08666
+
+Latitude: 40.59322, Longitude: -74.06857
+
+Latitude: 40.6456, Longitude: -74.08069
+
+Latitude: 40.59322, Longitude: -74.06857
+
+Latitude: 40.53894, Longitude: -74.16983
+
+Latitude: 40.63398, Longitude: -74.07871
+
+Latitude: 40.63031, Longitude: -74.08091
+
+Latitude: 40.61784, Longitude: -74.0804
+
+Latitude: 40.62775, Longitude: -74.08408
+
+Latitude: 40.6067, Longitude: -74.11728
+
+Latitude: 40.62534, Longitude: -74.10841
+
+Latitude: 40.56071, Longitude: -74.14591
+
+Latitude: 40.59324, Longitude: -74.0608
+
+Latitude: 40.64134, Longitude: -74.07942
+
+Latitude: 40.64727, Longitude: -74.08402
+
+Latitude: 40.6438, Longitude: -74.08443
+
+Latitude: 40.64378, Longitude: -74.0846
+
+Latitude: 40.62988, Longitude: -74.08115
+
+Latitude: 40.6156472947196, Longitude: -74.06853399247224
+
+Latitude: 40.63435, Longitude: -74.11374
+
+Latitude: 40.59273, Longitude: -74.07552
+
+Latitude: 40.63575, Longitude: -74.08098
+
+Latitude: 40.60827, Longitude: -74.07139
+
+Latitude: 40.57955, Longitude: -74.11109
+
+Latitude: 40.56853, Longitude: -74.11843
+
+Latitude: 40.61887, Longitude: -74.09107
+
+Latitude: 40.6438, Longitude: -74.09177
+
+Latitude: 40.61989, Longitude: -74.08581
+
+Latitude: 40.640959490425445, Longitude: -74.0964743895197
+
+Latitude: 40.63241, Longitude: -74.13834
+
+Latitude: 40.64174, Longitude: -74.09864
+
+Latitude: 40.62935, Longitude: -74.16225
+
+Latitude: 40.63552, Longitude: -74.13363
+
+Latitude: 40.64728, Longitude: -74.08572
+
+Latitude: 40.63414, Longitude: -74.1135
+
+Latitude: 40.63601, Longitude: -74.09102
+
+Latitude: 40.646, Longitude: -74.08647
+
+Latitude: 40.59919, Longitude: -74.13389
+
+Latitude: 40.63847, Longitude: -74.09229
+
+Latitude: 40.56614, Longitude: -74.10312
+
+Latitude: 40.63204, Longitude: -74.09195
+
+Latitude: 40.63652, Longitude: -74.07553
+
+Latitude: 40.63206, Longitude: -74.15362
+
+Latitude: 40.63629, Longitude: -74.07918
+
+Latitude: 40.57552, Longitude: -74.09086
+
+Latitude: 40.63607, Longitude: -74.09631
+
+Latitude: 40.58612, Longitude: -74.10824
+
+Latitude: 40.62685, Longitude: -74.12275
+
+Latitude: 40.62912, Longitude: -74.12839
+
+Latitude: 40.62692, Longitude: -74.11346
+
+Latitude: 40.58389, Longitude: -74.10492
+
+Latitude: 40.6286, Longitude: -74.11558
+
+Latitude: 40.56653, Longitude: -74.10441
+
+Latitude: 40.58935, Longitude: -74.07147
+
+Latitude: 40.64024, Longitude: -74.08538
+
+Latitude: 40.54177, Longitude: -74.17092
+
+Latitude: 40.6376, Longitude: -74.0784
+
+Latitude: 40.55013, Longitude: -74.17432
+
+Latitude: 40.61572, Longitude: -74.0671
+
+Latitude: 40.57926, Longitude: -74.1082
+
+Latitude: 40.62725, Longitude: -74.08235
+
+Latitude: 40.64076, Longitude: -74.16641
+
+Latitude: 40.54652, Longitude: -74.17551
+
+Latitude: 40.63794, Longitude: -74.08271
+
+Latitude: 40.5734, Longitude: -74.13084
+
+Latitude: 40.57746, Longitude: -74.11037
+
+Latitude: 40.61483, Longitude: -74.08846
+
+Latitude: 40.60862, Longitude: -74.11774
+
+Latitude: 40.57548, Longitude: -74.09462
+
+Latitude: 40.579, Longitude: -74.1102
+
+Latitude: 40.6156, Longitude: -74.06649
+
+Latitude: 40.64475, Longitude: -74.0782
+
+Latitude: 40.63795, Longitude: -74.13881
+
+Latitude: 40.5591, Longitude: -74.11823
+
+Latitude: 40.58032, Longitude: -74.11117
+
+Latitude: 40.53911, Longitude: -74.15396
+
+Latitude: 40.6418, Longitude: -74.0807
+
+Latitude: 40.53125, Longitude: -74.20135
+
+Latitude: 40.57455, Longitude: -74.09366
+
+Latitude: 40.64059, Longitude: -74.09686
+
+Latitude: 40.60548, Longitude: -74.13315
+
+Latitude: 40.62866, Longitude: -74.12162
+
+Latitude: 40.64333, Longitude: -74.07799
+
+Latitude: 40.5597, Longitude: -74.10079
+
+Latitude: 40.56482, Longitude: -74.10287
+
+Latitude: 40.54046, Longitude: -74.14322
+
+Latitude: 40.6134, Longitude: -74.08952
+
+Latitude: 40.60243, Longitude: -74.07695
+
+Latitude: 40.63455, Longitude: -74.11389
+
+Latitude: 40.62859, Longitude: -74.07695
+
+Latitude: 40.57935, Longitude: -74.1101
+
+Latitude: 40.61993, Longitude: -74.07329
+
+Latitude: 40.63358, Longitude: -74.11297
+
+Latitude: 40.62667, Longitude: -74.15076
+
+Latitude: 40.59787, Longitude: -74.06296
+
+Latitude: 40.63033, Longitude: -74.11345
+
+Latitude: 40.63045, Longitude: -74.11493
+
+Latitude: 40.64167, Longitude: -74.09808
+
+Latitude: 40.52339, Longitude: -74.20517
+
+Latitude: 40.63301, Longitude: -74.14626
+
+Latitude: 40.59116, Longitude: -74.06959
+
+Latitude: 40.62468, Longitude: -74.16731
+
+Latitude: 40.61129, Longitude: -74.06357
+
+Latitude: 40.6209, Longitude: -74.07516
+
+Latitude: 40.59339, Longitude: -74.16128
+
+Latitude: 40.61225, Longitude: -74.06337
+
+Latitude: 40.60394, Longitude: -74.16678
+
+Latitude: 40.61183, Longitude: -74.07265
+
+Latitude: 40.6102, Longitude: -74.09122
+
+Latitude: 40.62773, Longitude: -74.13181
+
+Latitude: 40.64061, Longitude: -74.08582
+
+Latitude: 40.64120873388328, Longitude: -74.09845686303
+
+Latitude: 40.63561, Longitude: -74.15415
+
+Latitude: 40.5775, Longitude: -74.11038
+
+Latitude: 40.63587, Longitude: -74.1213
+
+Latitude: 40.63286, Longitude: -74.08022
+
+Latitude: 40.63205, Longitude: -74.09133
+
+Latitude: 40.63686, Longitude: -74.1537
+
+Latitude: 40.638, Longitude: -74.08768
+
+Latitude: 40.63651, Longitude: -74.08917
+
+Latitude: 40.64578, Longitude: -74.08509
+
+Latitude: 40.57303, Longitude: -74.08528
+
+Latitude: 40.64412, Longitude: -74.08442
+
+Latitude: 40.63304, Longitude: -74.12164
+
+Latitude: 40.64557, Longitude: -74.08443
+
+Latitude: 40.61842, Longitude: -74.10242
+
+Latitude: 40.62817, Longitude: -74.07965
+
+Latitude: 40.62667, Longitude: -74.0798
+
+Latitude: 40.63539, Longitude: -74.08145
+
+Latitude: 40.61009, Longitude: -74.06171
+
+Latitude: 40.61968, Longitude: -74.06875
+
+Latitude: 40.56635, Longitude: -74.13037
+
+Latitude: 40.63897, Longitude: -74.08576
+
+Latitude: 40.57877, Longitude: -74.11005
+
+Latitude: 40.63564, Longitude: -74.08153
+
+Latitude: 40.6337, Longitude: -74.08355
+
+Latitude: 40.5586, Longitude: -74.17985
+
+Latitude: 40.62405, Longitude: -74.12465
+
+Latitude: 40.61785, Longitude: -74.1352
+
+Latitude: 40.53887, Longitude: -74.14247
+
+Latitude: 40.6237, Longitude: -74.07517
+
+Latitude: 40.63383, Longitude: -74.08373
+
+Latitude: 40.60787, Longitude: -74.09033
+
+Latitude: 40.61169, Longitude: -74.08928
+
+Latitude: 40.64142, Longitude: -74.08346
+
+Latitude: 40.63164, Longitude: -74.13201
+
+Latitude: 40.63442, Longitude: -74.08708
+
+Latitude: 40.63133, Longitude: -74.0912
+
+Latitude: 40.63235, Longitude: -74.09291
+
+Latitude: 40.63313, Longitude: -74.09093
+
+Latitude: 40.63876, Longitude: -74.12414
+
+Latitude: 40.62645, Longitude: -74.07967
+
+Latitude: 40.58731, Longitude: -74.07161
+
+Latitude: 40.60442, Longitude: -74.0688
+
+Latitude: 40.63133, Longitude: -74.09559
+
+Latitude: 40.63363, Longitude: -74.09242
+
+Latitude: 40.6318, Longitude: -74.09272
+
+Latitude: 40.63741, Longitude: -74.08474
+
+Latitude: 40.57955, Longitude: -74.11033
+
+Latitude: 40.63371, Longitude: -74.0928
+
+Latitude: 40.63711, Longitude: -74.1694
+
+Latitude: 40.53138, Longitude: -74.19113
+
+Latitude: 40.57973, Longitude: -74.11029
+
+Latitude: 40.64041, Longitude: -74.08834
+
+Latitude: 40.58541, Longitude: -74.07033
+
+Latitude: 40.58325, Longitude: -74.15221
+
+Latitude: 40.6367, Longitude: -74.15344
+
+Latitude: 40.575172, Longitude: -74.092789
+
+Latitude: 40.573452, Longitude: -74.088165
+
+Latitude: 40.59116, Longitude: -74.1858
+
+Latitude: 40.62837, Longitude: -74.08608
+
+Latitude: 40.62988, Longitude: -74.08639
+
+Latitude: 40.639664, Longitude: -74.088959
+
+Latitude: 40.63525, Longitude: -74.09086
+
+Latitude: 40.61126, Longitude: -74.06789
+
+Latitude: 40.63488, Longitude: -74.08711
+
+Latitude: 40.56434, Longitude: -74.18373
+
+Latitude: 40.63064, Longitude: -74.08179
+
+Latitude: 40.55966, Longitude: -74.11788
+
+Latitude: 40.55893, Longitude: -74.12009
+
+Latitude: 40.61717, Longitude: -74.07848
+
+Latitude: 40.63276, Longitude: -74.10573
+
+Latitude: 40.55901, Longitude: -74.11982
+
+Latitude: 40.58239, Longitude: -74.10838
+
+Latitude: 40.56082, Longitude: -74.11994
+
+Latitude: 40.55922, Longitude: -74.11809
+
+Latitude: 40.64349, Longitude: -74.09291
+
+Latitude: 40.63259, Longitude: -74.1058
+
+Latitude: 40.59989, Longitude: -74.10771
+
+Latitude: 40.62723, Longitude: -74.08004
+
+Latitude: 40.6204, Longitude: -74.15343
+
+Latitude: 40.64008847449263, Longitude: -74.08743133419358
+
+Latitude: 40.62613, Longitude: -74.07805
+
+Latitude: 40.61616, Longitude: -74.06902
+
+Latitude: 40.62636, Longitude: -74.07984
+
+Latitude: 40.5775, Longitude: -74.11024
+
+Latitude: 40.63476, Longitude: -74.16903
+
+Latitude: 40.58013, Longitude: -74.10032
+
+Latitude: 40.62151, Longitude: -74.08483
+
+Latitude: 40.62575, Longitude: -74.1195
+
+Latitude: 40.59598, Longitude: -74.18478
+
+Latitude: 40.53777, Longitude: -74.20674
+
+Latitude: 40.62619, Longitude: -74.07717
+
+Latitude: 40.64458, Longitude: -74.08005
+
+Latitude: 40.61264, Longitude: -74.15086
+
+Latitude: 40.58308, Longitude: -74.09337
+
+Latitude: 40.606396, Longitude: -74.067902
+
+Latitude: 40.6154, Longitude: -74.11354
+
+Latitude: 40.63042, Longitude: -74.10299
+
+Latitude: 40.61944, Longitude: -74.08612
+
+Latitude: 40.58403, Longitude: -74.08889
+
+Latitude: 40.64015, Longitude: -74.1697
+
+Latitude: 40.63856, Longitude: -74.16957
+
+Latitude: 40.63491, Longitude: -74.11408
+
+Latitude: 40.63352, Longitude: -74.11503
+
+Latitude: 40.63453, Longitude: -74.11554
+
+Latitude: 40.63118, Longitude: -74.0849
+
+Latitude: 40.50456, Longitude: -74.24984
+
+Latitude: 40.6137, Longitude: -74.06728
+
+Latitude: 40.60531, Longitude: -74.0827
+
+Latitude: 40.52224, Longitude: -74.20739
+
+Latitude: 40.63341, Longitude: -74.09208
+
+Latitude: 40.63318, Longitude: -74.09585
+
+Latitude: 40.63006, Longitude: -74.13708
+
+Latitude: 40.57583, Longitude: -74.12923
+
+Latitude: 40.647, Longitude: -74.0841
+
+Latitude: 40.63462092453782, Longitude: -74.11359274145003
+
+Latitude: 40.62926449327124, Longitude: -74.11738104053987
+
+Latitude: 40.64075, Longitude: -74.08378
+
+Latitude: 40.59139, Longitude: -74.07612
+
+Latitude: 40.59256, Longitude: -74.06463
+
+Latitude: 40.62866, Longitude: -74.14578
+
+Latitude: 40.63704, Longitude: -74.08617
+
+Latitude: 40.54335, Longitude: -74.16679
+
+Latitude: 40.63052, Longitude: -74.10387
+
+Latitude: 40.62556, Longitude: -74.08606
+
+Latitude: 40.63113, Longitude: -74.11905
+
+Latitude: 40.638966, Longitude: -74.0802
+
+Latitude: 40.62845, Longitude: -74.13723
+
+Latitude: 40.62891, Longitude: -74.13727
+
+Latitude: 40.57764, Longitude: -74.10895
+
+Latitude: 40.61887, Longitude: -74.14987
+
+Latitude: 40.6292, Longitude: -74.15808
+
+Latitude: 40.6291, Longitude: -74.15966
+
+Latitude: 40.64463, Longitude: -74.08004
+
+Latitude: 40.62573, Longitude: -74.08415
+
+Latitude: 40.63204, Longitude: -74.09754
+
+Latitude: 40.64096, Longitude: -74.08665
+
+Latitude: 40.59377, Longitude: -74.07712
+
+Latitude: 40.62561, Longitude: -74.16863
+
+Latitude: 40.5966, Longitude: -74.08434
+
+Latitude: 40.59615, Longitude: -74.08219
+
+Latitude: 40.59676, Longitude: -74.06472
+
+Latitude: 40.64117, Longitude: -74.16844
+
+Latitude: 40.63711, Longitude: -74.08768
+
+Latitude: 40.54518, Longitude: -74.15356
+
+Latitude: 40.604679, Longitude: -74.093307
+
+Latitude: 40.6022, Longitude: -74.10133
+
+Latitude: 40.607, Longitude: -74.0886
+
+Latitude: 40.62993, Longitude: -74.08069
+
+Latitude: 40.63736, Longitude: -74.08155
+
+Latitude: 40.57409, Longitude: -74.09232
+
+Latitude: 40.63109538863847, Longitude: -74.15736770699648
+
+Latitude: 40.62557, Longitude: -74.0835
+
+Latitude: 40.62967, Longitude: -74.08457
+
+Latitude: 40.52498, Longitude: -74.21514
+
+Latitude: 40.630226, Longitude: -74.081734
+
+Latitude: 40.64358, Longitude: -74.08285
+
+Latitude: 40.6359, Longitude: -74.07963
+
+Latitude: 40.63708, Longitude: -74.16759
+
+Latitude: 40.63799, Longitude: -74.16949
+
+Latitude: 40.63166, Longitude: -74.09488
+
+Latitude: 40.6382, Longitude: -74.16913
+
+Latitude: 40.60205, Longitude: -74.07389
+
+Latitude: 40.58692037381656, Longitude: -74.08887917690643
+
+Latitude: 40.58379188991727, Longitude: -74.10699461705279
+
+Latitude: 40.64615091606886, Longitude: -74.08182946149103
+
+Latitude: 40.59224, Longitude: -74.06806
+
+Latitude: 40.6367341, Longitude: -74.0766671
+
+Latitude: 40.50031443485432, Longitude: -74.23913564532995
+
+Latitude: 40.63438946827837, Longitude: -74.08924284780458
+
+Latitude: 40.56384902051308, Longitude: -74.09874350097706
+
+Latitude: 40.549946000713526, Longitude: -74.16788571182833
+
+Latitude: 40.63496667960433, Longitude: -74.11394818858345
+
+Latitude: 40.63436488827763, Longitude: -74.1155018019064
+
+Latitude: 40.634860792609885, Longitude: -74.11427005781908
+
+Latitude: 40.64702092952191, Longitude: -74.0862807342707
+
+Latitude: 40.6463804, Longitude: -74.0820349
+
+Latitude: 40.52033966288596, Longitude: -74.20516033932735
+
+Latitude: 40.5427340457317, Longitude: -74.14899581534996
+
+Latitude: 40.57892610214373, Longitude: -74.1082392831035
+
+Latitude: 40.632378144434114, Longitude: -74.10543870224568
+
+Latitude: 40.6389659, Longitude: -74.08019929999999
+
+Latitude: 40.62510292964535, Longitude: -74.16164764201709
+
+Latitude: 40.63354771289948, Longitude: -74.09185820075845
+
+Latitude: 40.54677700031456, Longitude: -74.17658943312207
+
+Latitude: 40.61289298546372, Longitude: -74.07344524831959
+
+Latitude: 40.63444, Longitude: -74.16749
+
+Latitude: 40.54356193952624, Longitude: -74.16831749751803
+
+Latitude: 40.56489025529038, Longitude: -74.10195769313273
+
+Latitude: 40.645696224598495, Longitude: -74.08505083541029
+
+Latitude: 40.63925069561793, Longitude: -74.07636668649945
+
+Latitude: 40.65432, Longitude: -74.18867
+
+Latitude: 40.6613, Longitude: -74.12171
+
+Latitude: 40.6556004, Longitude: -74.1256935
+
+Latitude: 40.651580866802064, Longitude: -74.18716885755727
+
+Latitude: 40.57654, Longitude: -74.22076
+
+Latitude: 40.57346, Longitude: -74.22223
+
+Latitude: 40.65834381191455, Longitude: -74.19499226251821
+
+Latitude: 40.65664, Longitude: -74.12318
+
+Latitude: 40.62794223229093, Longitude: -74.12725011175917
+
+Latitude: 40.65297, Longitude: -74.12552
+
+Latitude: 40.65483, Longitude: -74.20312
+
+Latitude: 40.64722, Longitude: -74.13263
+
+Latitude: 40.654968769272784, Longitude: -74.19543944299221
+
+Latitude: 40.57294, Longitude: -74.22497
+
+Latitude: 40.64221, Longitude: -74.21398
+
+Latitude: 40.65152, Longitude: -74.18849
+
+Latitude: 40.65493163316512, Longitude: -74.19545587152243
+
+Latitude: 40.65042, Longitude: -74.19295
+
+Latitude: 40.64754, Longitude: -74.13226
+
+Latitude: 40.65702, Longitude: -74.12148
+
+Latitude: 40.65302, Longitude: -74.18117
+
+Latitude: 40.64823, Longitude: -74.13919
+
+Latitude: 40.61600933964295, Longitude: -74.0753071888444
+
+Latitude: 40.65458, Longitude: -74.19657
+
+Latitude: 40.65161, Longitude: -74.18901
+
+Latitude: 40.571404, Longitude: -74.226204
+
+Latitude: 40.65518, Longitude: -74.12044
+
+Latitude: 40.51111485043992, Longitude: -74.2610313403968
+
+Latitude: 40.65871, Longitude: -74.12993
+
+Latitude: 40.65165, Longitude: -74.18812
+
+Latitude: 40.65242647271042, Longitude: -74.18659511855826
+
+Latitude: 40.57507, Longitude: -74.21991
+
+Latitude: 40.6586, Longitude: -74.12368
+
+Latitude: 40.52339, Longitude: -74.26564
+
+Latitude: 40.59941, Longitude: -74.17776
+
+Latitude: 40.65406, Longitude: -74.12718
+
+Latitude: 40.65492629150632, Longitude: -74.19545721262693
+
+Latitude: 40.6602, Longitude: -74.12342
+
+Latitude: 40.65749, Longitude: -74.12694
+
+Latitude: 40.5187, Longitude: -74.26952
+
+Latitude: 40.65411, Longitude: -74.12767
+
+Latitude: 40.65168, Longitude: -74.19554
+
+Latitude: 40.65384, Longitude: -74.11901
+
+Latitude: 40.6559, Longitude: -74.12504
+
+Latitude: 40.65627, Longitude: -74.18785
+
+Latitude: 40.65678, Longitude: -74.12835
+
+Latitude: 40.65181, Longitude: -74.19311
+
+Latitude: 40.52512, Longitude: -74.26675
+
+Latitude: 40.65611, Longitude: -74.18859
+
+Latitude: 40.65826, Longitude: -74.1326
+
+Latitude: 40.64601693375988, Longitude: -74.1285485147016
+
+Latitude: 40.648197, Longitude: -74.132957
+
+Latitude: 40.61067, Longitude: -74.08897
+
+Latitude: 40.65614, Longitude: -74.12736
+
+Latitude: 40.65628, Longitude: -74.12681
+
+Latitude: 40.65277, Longitude: -74.12292
+
+Latitude: 40.65766, Longitude: -74.12676
+
+Latitude: 40.66018, Longitude: -74.11693
+
+Latitude: 40.65494104407135, Longitude: -74.19545721262693
+
+Latitude: 40.64923, Longitude: -74.13376
+
+Latitude: 40.52371, Longitude: -74.26519
+
+Latitude: 40.65328, Longitude: -74.18692
+
+Latitude: 40.57905, Longitude: -74.22127
+
+Latitude: 40.61391, Longitude: -74.08557
+
+Latitude: 40.6554, Longitude: -74.12136
+
+Latitude: 40.6496467, Longitude: -74.1924006
+
+Latitude: 40.66475, Longitude: -74.11033
+
+Latitude: 40.65629, Longitude: -74.12489
+
+Latitude: 40.60944, Longitude: -74.0869
+
+Latitude: 40.65925, Longitude: -74.19556
+
+Latitude: 40.64987, Longitude: -74.19937
+
+Latitude: 40.64999, Longitude: -74.19748
+
+Latitude: 40.65638, Longitude: -74.12548
+
+Latitude: 40.57606, Longitude: -74.22185
+
+Latitude: 40.65831, Longitude: -74.13121
+
+Latitude: 40.648869, Longitude: -74.196075
+
+Latitude: 40.65065, Longitude: -74.19884
+
+Latitude: 40.64936, Longitude: -74.13218
+
+Latitude: 40.6096, Longitude: -74.08824
+
+Latitude: 40.65475, Longitude: -74.18624
+
+Latitude: 40.6583, Longitude: -74.12674
+
+Latitude: 40.6532, Longitude: -74.12285
+
+Latitude: 40.65329, Longitude: -74.18147
+
+Latitude: 40.64975, Longitude: -74.19772
+
+Latitude: 40.612469, Longitude: -74.085388
+
+Latitude: 40.64817, Longitude: -74.13295
+
+Latitude: 40.65488, Longitude: -74.20363
+
+Latitude: 40.65529, Longitude: -74.18547
+
+Latitude: 40.66162, Longitude: -74.12017
+
+Latitude: 40.65664, Longitude: -74.20124
+
+Latitude: 40.61489, Longitude: -74.08491
+
+Latitude: 40.65652, Longitude: -74.20145
+
