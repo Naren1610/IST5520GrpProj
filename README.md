@@ -19,3 +19,5 @@ Nov. 12 Ronald Adomako, Idris Dobbs, and Narenda met
 Nov. 19 Ronald Adomako, Idris Dobbs, and Narenda met 
 
 Nov. 26 Ronald Adomako, Idris Dobbs, and Narenda met (2.5 hours)
+
+Dec. 3 Ronald Adomako, Idris Dobbs, Nikhil Srirama Sai, and Narenda Chigili met (2.5 hours)
